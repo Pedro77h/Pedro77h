@@ -1,8 +1,8 @@
 ## Hello World, I'm Pedro H.
-## Full Stack Developer 👨‍💻
+### Full Stack Developer 👨‍💻
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-<img height="350em"  align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro77h&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="300em"  align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro77h&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 ```javascript
 const aboutMe = {
