@@ -2,7 +2,7 @@
 ### An Eternal Apprentice 👨‍💻
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-<img height="300em"  align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa/top-langs/?username=Pedro77h&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="300em"  align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pedro77h&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 ```javascript
 const aboutMe = {
@@ -22,7 +22,6 @@ const aboutMe = {
    },
    currentOccupation: ["last year student, open for job opportunities"],
 ```
-
 
 </br> 
 
