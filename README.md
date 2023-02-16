@@ -21,6 +21,7 @@ const aboutMe = {
       mobile: ["React Native"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
+};
 ```
 
 </br> 
