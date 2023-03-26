@@ -20,7 +20,7 @@ const aboutMe = {
       databases: ["MongoDB", "postgreSQL", "mySQL"],
       mobile: ["React Native"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["open for job opportunities"],
 };
 ```
 
