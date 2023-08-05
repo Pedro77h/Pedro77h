@@ -7,18 +7,19 @@
 ```javascript
 const aboutMe = {
    country: "Brazil",
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, Typescript, Kotlin],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap"]
+         js: ["React", "Next"],
+         css: ["Bootstrap", "SASS"],
+         css-in-js: ["Styled Components"]
       },
       backEnd: {
          js: ["Node", "Express" , "Nest" ,"Fastify"],
-         misc: "Bash"
+         test: ["Jest"]
       },
       databases: ["MongoDB", "postgreSQL", "mySQL"],
-      mobile: ["React Native"]
+      mobile: ["React Native", "Kotlin"]
    },
    currentOccupation: ["open for job opportunities"],
 };
