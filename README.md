@@ -7,35 +7,27 @@
 ```javascript
 const aboutMe = {
    country: "Brazil",
-   code: [Javascript, Typescript, Java],
+   code: [Javascript, Typescript, Java, Go],
    technologies: {
       frontEnd: {
-         js: ["React", "Next", "Angular"],
-         css: ["Bootstrap", "SASS"],
-         css-in-js: ["Styled Components"]
+         js: ["React", "Next", "Angular", "Vue"],
+         css: ["Bootstrap", "SASS", "SCSS", "Vuetify"],
+         cssInJs: ["Styled Components"]
       },
       backEnd: {
          js: ["Node", "Express" , "Nest"],
          java: ["Spring"],
-         test: ["Jest"]
+         go: ["Gin"],
+         test: ["Jest", "JUnit", "Mockito"]
       },
-      databases: ["MongoDB", "postgreSQL", "mySQL"],
-      mobile: ["React Native"]
+      desktop: ["Wails"],
+      web3: ["Solidity"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+      mobile: ["React Native", "Ionic"]
    },
-   currentOccupation: ["open for job opportunities"],
+   currentOccupation: ["open for new opportunities"],
 };
 ```
 
 </br> 
-
-### 🛠️ Technologies and Tools I use:
-
-<div>
-<img align="center" alt="Pedro-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="center" alt="Pedro-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-<img align="center" alt="Pedro-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="center" alt="Pedro-nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img align="center" alt="Pedro-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="center" alt="Pedro-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-<img align="center" alt="Pedro-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 
