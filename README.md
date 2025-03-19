@@ -21,7 +21,6 @@ const aboutMe = {
          test: ["Jest", "JUnit", "Mockito"]
       },
       desktop: ["Wails"],
-      web3: ["Solidity"],
       databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
       mobile: ["React Native", "Ionic"]
    },
